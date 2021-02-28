@@ -1,0 +1,31 @@
+body{
+  background-color: #393E46;
+}
+
+h1{
+  text-align: center;
+  font-family: 'Fascinate Inline', cursive;
+  text-shadow: 8px 0 #232931;
+  color:  #4ECCA3;
+  font-size: 6rem;
+  margin: 60px;
+}
+
+h2{
+  font-family: 'Slackey', cursive;
+  color:  #4ECCA3;
+  font-size: 2rem;
+}
+
+.player{
+  font-family: 'Slackey', cursive;
+  text-align: center;
+  margin: 50px 30px;
+  padding: 20px;
+  font-size: 18px;
+  color:#f4f4f4;
+}
+
+/* h1.@media query {
+    https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/237/flag-in-hole_26f3.png
+} */
